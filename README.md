@@ -8,6 +8,7 @@ Este é um aplicativo simples de consulta por CEP desenvolvido com HTML, CSS e J
 # Como usar o aplicativo
 Para usar o aplicativo, basta seguir os seguintes passos:
 ### [Clique aqui para acessar](https://thriving-monstera-86c56b.netlify.app)
+ou
 - Abra o arquivo "index.html" em um navegador web.
 - Digite um CEP válido no campo de entrada.
 - Clique no botão "Consultar".
@@ -20,6 +21,7 @@ O aplicativo utiliza as seguintes tecnologias:
 - HTML
 - CSS (Bootstrap)
 - JavaScript
+- [API ViaCEP](https://viacep.com.br/)
 
 # Funcionamento do aplicativo
 O aplicativo usa eventos JavaScript para validar a entrada do usuário no campo de entrada e fazer a chamada para a API ViaCEP. Quando a consulta é bem-sucedida, as informações de endereço são salvas no armazenamento local do navegador e exibidas na página. Se a consulta falhar, o aplicativo exibe uma mensagem de erro.
