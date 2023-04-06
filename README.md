@@ -26,4 +26,4 @@ O aplicativo utiliza as seguintes tecnologias:
 # Funcionamento do aplicativo
 O aplicativo usa eventos JavaScript para validar a entrada do usuário no campo de entrada e fazer a chamada para a API ViaCEP. Quando a consulta é bem-sucedida, as informações de endereço são salvas no armazenamento local do navegador e exibidas na página. Se a consulta falhar, o aplicativo exibe uma mensagem de erro.
 
-https://github.com/leonardosouza/javascript-dinamico
+https://github.com/leonardosouza/javascript-dinamico/tree/main/aula-06-07
